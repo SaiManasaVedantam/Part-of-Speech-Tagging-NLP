@@ -1,4 +1,4 @@
-# Part-of-Speech-Tagging-NLP
+# Part-of-Speech-Tagging-NLP (Sep 2021)
 In Natural Language Processing, tagging or associating the appropriate part of speech (POS) tag to the word is extremely essential because POS tag helps us to understand the word sense in the **context** considered.
 
 In general, the naive but the fundamental approach with which this process started is using **Bayesian Probabilistic method** where we consider the probability of a tag sequence for a word sequence can be obtained as: 
